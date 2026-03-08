@@ -1,7 +1,0 @@
-com.foodlink.app-pngs-0 C:\Users\dcolm\Documents\GitHub\foodlink\app\build\generated\res\pngs\debug
-com.foodlink.app-updated_navigation_xml-1 C:\Users\dcolm\Documents\GitHub\foodlink\app\build\generated\updated_navigation_xml\debug
-com.foodlink.app-packageDebugResources-2 C:\Users\dcolm\Documents\GitHub\foodlink\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.foodlink.app-packageDebugResources-3 C:\Users\dcolm\Documents\GitHub\foodlink\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.foodlink.app-debug-4 C:\Users\dcolm\Documents\GitHub\foodlink\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.foodlink.app-debug-5 C:\Users\dcolm\Documents\GitHub\foodlink\app\src\debug\res
-com.foodlink.app-main-6 C:\Users\dcolm\Documents\GitHub\foodlink\app\src\main\res
