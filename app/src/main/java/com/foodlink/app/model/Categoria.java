@@ -8,6 +8,7 @@ public class Categoria extends EntidadBase{
 
     private String nombre;
     private String descripcion;
+    private ListaCD<Restaurante> restaurantes;
 
 
 
