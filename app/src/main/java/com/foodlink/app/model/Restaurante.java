@@ -25,4 +25,13 @@ public class Restaurante {
         this.menu = menu;
     }
 
+    public double calcularRating() {
+
+        return 0;
+    }
+    public Menu obtenerMenu(){
+        return null;
+    }
+
+
 }
