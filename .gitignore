@@ -1,16 +1,36 @@
+# Gradle y cachés
+.gradle/
+build/
+*/build/               # Cubre app/build/, mylib/build/, etc.
+.kotlin/
+
+# Configuración local
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+*.iws
+
+# Outputs de build
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+captures/
+output.json
+release/
+
+# Archivos del sistema operativo
 .DS_Store
-/build
-/captures
+Thumbs.db
+*~
+*.swp
+
+# Otros temporales
+*.log
+*.tmp
+*.bak
 .externalNativeBuild
 .cxx
-local.properties
-.idea/
