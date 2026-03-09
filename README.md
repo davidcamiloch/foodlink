@@ -12,12 +12,14 @@ IDE: Android Studio
 Paradigma: Programación Orientada a Objetos (POO)
 
 📂 Estructura del proyecto
-Paquete	Descripción	Clases principales
-model	Entidades y modelos de dominio	Categoria, EntidadBase, Menu, Plato, Resena, Restaurante, Usuario, VersionResena
-repository	Gestión de almacenamiento y recuperación de datos	—
-service	Lógica de negocio y operaciones principales	BuscadorRestaurante, SistemaValoraciones
-ui	Interfaces gráficas y actividades	—
-util	Estructuras de datos y utilidades (basadas en proyecto SEED de UFPS)	ArbolBinario, ArbolBinarioBusqueda, Cola, ColaP, ExceptionUFPS, IteratorLCD, ListaCD, Nodo, NodoBin, NodoD, NodoP, Pila
+| Paquete        | Descripción                                                          | Clases principales                                                                                                                              |
+| -------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **model**      | Entidades y modelos de dominio                                       | `Categoria`, `EntidadBase`, `Menu`, `Plato`, `Resena`, `Restaurante`, `Usuario`, `VersionResena`                                                |
+| **repository** | Gestión de almacenamiento y recuperación de datos                    | —                                                                                                                                               |
+| **service**    | Lógica de negocio y operaciones principales                          | `BuscadorRestaurante`, `SistemaValoraciones`                                                                                                    |
+| **ui**         | Interfaces gráficas y actividades                                    | —                                                                                                                                               |
+| **util**       | Estructuras de datos y utilidades (basadas en proyecto SEED de UFPS) | `ArbolBinario`, `ArbolBinarioBusqueda`, `Cola`, `ColaP`, `ExceptionUFPS`, `IteratorLCD`, `ListaCD`, `Nodo`, `NodoBin`, `NodoD`, `NodoP`, `Pila` |
+
 
 💡 Nota: Todas las clases de util provienen del proyecto SEED de la UFPS.
 
