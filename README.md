@@ -23,10 +23,6 @@ Paradigma: Programación Orientada a Objetos (POO)
 
 💡 Nota: Todas las clases de util provienen del proyecto SEED de la UFPS.
 
-🔗 Repositorio
-
-https://github.com/davidcamiloch/foodlink
-
 ⚙️ Instalación y ejecución (equipo)
 
 Clonar el repositorio.
